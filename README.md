@@ -14,9 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+![ScreenShot](https://github.com/Rishav-mngo/new_tab_Manager/blob/main/Capture.PNG?raw=true)
+
 ### `work in progress...`
 
-I am planning to put a feature to put order for links.\
+I am planning to put a feature to put order for links.
 
 ### `Contributers`
 
