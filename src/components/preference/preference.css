@@ -1,0 +1,45 @@
+.main {
+  background: var(--main-theme);
+  width: 200px;
+  position: absolute;
+  top: 0%;
+  bottom: 0%;
+  left: 0%;
+}
+form {
+  margin-top: 10px;
+}
+input:nth-child(1) {
+  margin-bottom: 5px;
+}
+
+input {
+  border: none;
+  border-radius: 2px;
+  height: 25px;
+  margin-left: 5px;
+}
+.btn {
+  margin-top: 10px;
+  border: none;
+  height: 35px;
+  width: 95%;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  background: rgb(0, 0, 0);
+  color: white;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  border: 2px solid grey;
+}
+
+.preferenceLinkName {
+  margin-top: 5px;
+  margin-left: 25px;
+  width: 150px;
+  height: 25px;
+  background: white;
+  text-align: center;
+}
